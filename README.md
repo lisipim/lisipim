@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @lisipim
-- 👀 I’m interested in  aprender mais obre programação
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in  aprender mais sobre programação
+- 🌱 I’m currently learning no alura github e html
+- 💞️ I’m looking to collaborate on quem quiser compartilhar e ajudar
+- 📫 How to reach me lisii_p92@hotmail.com
+!(https://i.pinimg.com/originals/0e/cd/c8/0ecdc8736f3b755b09a8039ad5607253.jpg)
+
 
 <!---
 lisipim/lisipim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
